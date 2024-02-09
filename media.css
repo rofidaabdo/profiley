@@ -1,0 +1,22 @@
+@media ( max-width: 1080px){
+    #header-quiry{
+        display: block;
+    }
+    .sevice{
+        background-color: green;
+    }
+    .posation{
+        position: static;
+        font-size: 12px;
+        
+    }
+    .myproject .pro{
+        padding: 10px 0 ;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .branche-main p{
+        font-size: 20px;
+    }
+    
+}
